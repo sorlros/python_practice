@@ -350,9 +350,9 @@
 
 # print(factorial(5))
 
-# • 공백이 포함된 문자열을 인수로 넣어서 공백으로 분리된 문자열을 키로하고 문자열
-# 의 길이를 value로 하는 딕션어리를 만드는 함수를 정의하세요
-# make_dict(“I love you”) {‘I’:1, ‘love’:4, ‘you’:3}
+# # • 공백이 포함된 문자열을 인수로 넣어서 공백으로 분리된 문자열을 키로하고 문자열
+# # 의 길이를 value로 하는 딕션어리를 만드는 함수를 정의하세요
+# # make_dict(“I love you”) {‘I’:1, ‘love’:4, ‘you’:3}
 
 # def define_dict(arg: str):
 #     my_dict = {}
