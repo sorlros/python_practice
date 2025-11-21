@@ -243,6 +243,7 @@ df2 = pd.DataFrame({
 
 print("결측치를 평균으로 채우세요")
 
+
 # df2.fillna(0)
 # print(df2["salary"].mean())
 value = df2["salary"].mean()  # 평균값
